@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-uchkz2.date-me.pro/sitemap.xml
